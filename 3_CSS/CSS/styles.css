@@ -19,3 +19,10 @@ p{
     color: aqua;
     padding: 5px;
 }
+
+/* ids */
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
