@@ -43,3 +43,12 @@ h2{
 .color-name{
     color: crimson;
 }
+
+/*hex */
+.hex{
+    color: #55a398;
+}
+
+.hex-2{
+    color: #1c8a94;
+}
